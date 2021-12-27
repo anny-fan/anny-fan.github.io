@@ -1,2 +1,0 @@
-# countries-table-vue3
- 
